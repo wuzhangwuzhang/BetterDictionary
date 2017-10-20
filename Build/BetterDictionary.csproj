@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="BetterDictionary.cs" />
     <Compile Include="BetterHashSet.cs" />
+    <Compile Include="BetterEnumerable.cs" />
     <Compile Include="UnsafeEqualityComparer.cs" />
     <Compile Include="UnsafeEqualityComparer.il" />
     <Compile Include="Properties\AssemblyInfo.cs" />

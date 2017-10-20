@@ -61,7 +61,7 @@ public class HashSet<T> : BetterHashSet<T>
 }
 
 /// <summary>
-///     Overrides the Linq methods.
+///     Overrides the System.Linq.Enumerable methods.
 /// </summary>
 public static class BetterDictionaryPatchExtensions
 {
